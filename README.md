@@ -9,3 +9,7 @@ Here is the code for Hello World in Python:
 ```{python}
 print("Hello World")
 ```
+
+```{r}
+print("Hello World")
+```
